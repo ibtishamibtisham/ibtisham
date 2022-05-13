@@ -1,0 +1,17 @@
+// express-validator
+//multer
+// express
+// mongoose
+//body-parser
+
+// Note:i kept everything in a single file
+
+//create psychiatrist
+// http://localhost:3001/psychiatrist
+//create patient
+// http://localhost:3001/
+//get both
+//http://localhost:3001/psychiatrist
+//http://localhost:3001/patient
+//update existing record
+// http://localhost:3001/patient/:id(in place of :id give record id)
